@@ -1,5 +1,3 @@
-
-```
 ## Command needs to follow 
 
 ## below command for CMD 
@@ -24,4 +22,3 @@ coda create -p env python=3.10 -y
 conda activate <path_of_env>
 ```
 
-```
