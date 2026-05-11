@@ -28,4 +28,4 @@ conda activate <path_of_env>
 
 2. Embedding Model ## openai, HF,gemini
 
-3. vectordatabase ## inmemory ## ondisk ## cloud based 
+3. vectordatabase ## inmemory ## ondisk ## cloud 
